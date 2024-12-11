@@ -11,3 +11,4 @@ class TestItems:
         browser.find_element(By.CSS_SELECTOR, "button.btn-add-to-basket")
 
         assert True
+        print("Кнопка на месте")
